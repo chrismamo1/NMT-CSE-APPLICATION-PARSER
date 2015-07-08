@@ -3,7 +3,7 @@
 import sys
 
 def main():
-    print ("fdsfsdf")
+	print ("fdsfsdf")
     
-if __name__ == '__main':
-    main()
+if __name__ == '__main__':
+	main()
