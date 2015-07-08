@@ -1,5 +1,5 @@
 #!/usr/bin/python
-
+lol
 import sys
 
 def main():
