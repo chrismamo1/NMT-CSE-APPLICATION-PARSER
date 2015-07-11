@@ -1,0 +1,37 @@
+time     | Timestamp
+fname    | First Name
+lname    | Last Name
+email    | NMT Email Address
+major    | What is your major?
+minor    | What is your minor?
+standing | Class Standing in Fall 2015 (by credits)
+prev     | Which of the following CS courses have you already taken?
+hours    | Number of Hours Desired
+wrkstdy  | Do you have work study?
+cs101    | Course Selection [CSE/IT 101]
+cs107    | Course Selection [CSE/IT 107]
+Course Selection [CSE/IT 113]
+Course Selection [CSE/IT 122]
+Course Selection [CSE 213]
+Course Selection [CSE 221]
+Course Selection [CSE 222]
+What job positions are you interested in? [Grader]
+What job positions are you interested in? [TA]
+What job positions are you interested in? [Tutor]
+Course Grade [CSE/IT 101]
+Course Grade [CSE/IT 107]
+Course Grade [CSE/IT 113]
+Course Grade [CSE/IT 122]
+Course Grade [CSE 213]
+Course Grade [CSE 221]
+Course Grade [CSE 222]
+Language/Concept Proficiency [Python Programming]
+Language/Concept Proficiency [C Programming]
+Language/Concept Proficiency [Java Programming]
+Language/Concept Proficiency [Data Structures/Algorithms ]
+Language/Concept Proficiency [Pointers]
+Language/Concept Proficiency [Linked Lists]
+Language/Concept Proficiency [gdb/valgrind]
+Which of the Following times are you available
+Have you worked for the cs department before?
+If you answered yes to the previous question, please explain. 
