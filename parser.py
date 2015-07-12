@@ -2,7 +2,13 @@
 import student
 
 def main():
-	curr_stu = ['cat', 'dog', 'mouse'] 
+    tsv = open("apps.tsv", 'r')
+    apps = tsv.read()
+    apps = apps.split('\n')
+    head = student.Student(apps(1))
     
+
+    tsv.close()
+
 if __name__ == '__main__':
-	main()
+    main()
