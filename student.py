@@ -27,23 +27,23 @@ class Student:
         self.grd213 = inlist[24]
         self.grd221 = inlist[25]
         self.grd222 = inlist[26]
-	self.python = inlist[27]
-	self.c = inlist[28]
-	self.java = inlist[29]
-	self.data = inlist[30]
-	self.pointers = inlist[31]
-	self.lnkdlsts = inlist[32]
-	self.gdb = inlist[33]
-	self.times = inlist[34]
-	self.prevwrk = inlist[35]
-	self.reason = inlist[36]
+        self.python = inlist[27]
+        self.c = inlist[28]
+        self.java = inlist[29]
+        self.data = inlist[30]
+        self.pointers = inlist[31]
+        self.lnkdlsts = inlist[32]
+        self.gdb = inlist[33]
+        self.times = inlist[34]
+        self.prevwrk = inlist[35]
+        self.reason = inlist[36]
     def get_next(self):
         return self.next_node
     def set_next(self, new_next):
         self.next_node = new_next
         
-class ListStudent
-    def __init__(self, head=None)
+class ListStudent:
+    def __init__(self, head=None):
         self.head = head
     def insert(self, data):
         new_node = Student(data)
