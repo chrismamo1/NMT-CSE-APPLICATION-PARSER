@@ -6,7 +6,7 @@ def main():
     apps = tsv.read()
     apps = apps.split('\n')
     print(aaps)
-    //head = student.Student(apps(1))
+    #head = student.Student(apps(1))
     print (head.fname)    
 
     tsv.close()
