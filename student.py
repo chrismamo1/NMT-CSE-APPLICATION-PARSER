@@ -37,6 +37,7 @@ class Student:
         self.times = inlist[34]
         self.prevwrk = inlist[35]
         self.reason = inlist[36]
+        self.next_node = next_node
     def get_next(self):
         return self.next_node
     def set_next(self, new_next):
@@ -47,6 +48,6 @@ class ListStudent:
         self.head = head
     def insert(self, data):
         new_node = Student(data)
-        new_head = self.head
+        new_head = new_node
         new_node.set_next(self.head)
         self.head = new_head
