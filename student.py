@@ -47,5 +47,6 @@ class ListStudent:
         self.head = head
     def insert(self, data):
         new_node = Student(data)
+        new_head = self.head
         new_node.set_next(self.head)
         self.head = new_head

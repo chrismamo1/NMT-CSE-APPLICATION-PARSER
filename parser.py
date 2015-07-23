@@ -9,8 +9,10 @@ def main():
     head = student.Student(tmp)
     lst = student.ListStudent(head)
     for i in range (2, len(apps)):
-        #lst.insert(student.Student(apps[i]))
-     
+        print (i)
+        tmp = apps[i]
+        tmp2 = student.Student(tmp)
+        lst.insert(tmp)
     tsv.close()
 
 if __name__ == '__main__':
