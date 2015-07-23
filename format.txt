@@ -1,0 +1,47 @@
+Student: [fname] [lname]
+  Email: [email]
+  Major: [major]
+  Minor: [minor]
+  Class Standing (Fall 2015): [standing]
+
+  Number of Hours Desired: [hours]
+  Workstudy: [wrkstdy]
+
+Previous Courses:
+  [prev]
+
+Course Selection (preferred/yes/no):
+  CSE/IT 101: [cse101]
+  CSE/IT 107: [cse107]
+  CSE/IT 113: [cse113]
+  CSE/IT 122: [cse122]
+  CSE/IT 213: [cse213]
+  CSE/IT 221: [cse221]
+  CSE/IT 222: [cse222]
+
+Positions Interested in (preferred/yes/no):
+  Grader: [grader]
+  TA: [ta]
+  Tutor: [tutor]
+
+Course Grades:
+  CSE/IT 101: [grd101]
+  CSE/IT 107: [grd107]
+  CSE/IT 113: [grd113]
+  CSE/IT 122: [grd122]
+  CSE/IT 213: [grd213]
+  CSE/IT 221: [grd221]
+  CSE/IT 222: [grd222]
+
+Language/Concept Proficiency:
+  C: [c]
+  Java: [java]
+  Data Structures/Algorithms: [data]
+  Pointers: [pointers]
+  Linked Lists: [lnkdlsts]
+  GDB/Valgrind: [gdb]
+
+Times Available:
+  [times]
+
+Previously Worked for the department (followed by the reason): [prevwrk]; [reason]
