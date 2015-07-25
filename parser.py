@@ -21,7 +21,7 @@ def main():
     print (tmp.next_node)
     while tmp.next_node != None:
         if tmp.cse101 == 'Yes' or tmp.cse101 == 'Preferred' or tmp.cse101 == 'If Needed':
-            print(tmp.fname)
+            tmp.file_print(pfile)
         tmp = tmp.next_node
     
     pfile.close()

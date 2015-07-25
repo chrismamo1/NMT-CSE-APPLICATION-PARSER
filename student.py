@@ -42,6 +42,8 @@ class Student:
         return self.next_node
     def set_next(self, new_next):
         self.next_node = new_next
+    def file_print(self, pfile):
+        a = 1#print student info to file
         
 class ListStudent:
     def __init__(self, head=None):
