@@ -43,7 +43,12 @@ class Student:
     def set_next(self, new_next):
         self.next_node = new_next
     def file_print(self, pfile):
-        a = 1#print student info to file
+        pfile.write(''.join(('Student: ', self.fname, ' ', self.lname, '\n')))
+        pfile.write(''.join(('  Email: ', self.email,'\n')))
+        pfile.write(''.join(('  Major: ', self.major,'\n')))
+        pfile.write(''.join(('  Minor: ', self.minor,'\n')))
+        pfile.write(''.join(('  Class Standing (Fall 2015): ', self.standing,'\n\n')))
+        
         
 class ListStudent:
     def __init__(self, head=None):

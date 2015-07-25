@@ -1,0 +1,192 @@
+Student: Alex Hernandez
+  Email: ahernand@nmt.edu
+  Major: C.S.
+  Minor: 
+  Class Standing (Fall 2015): Senior
+
+Student: Chris Aikman
+  Email: caikman@nmt.edu
+  Major: Computer Science
+  Minor: Technical Communication
+  Class Standing (Fall 2015): Senior
+
+Student: Joshua  Ashinhurst
+  Email: jashinhu@nmt.edu
+  Major: Computer Science
+  Minor: Not Defined
+  Class Standing (Fall 2015): Sophomore
+
+Student: Steven Biedermann
+  Email: sbiederm@nmt.edu
+  Major: Computer Science
+  Minor: 
+  Class Standing (Fall 2015): Sophomore
+
+Student: Preston Ruff
+  Email: pruff@nmt.edu
+  Major: Computer Science
+  Minor: n/a
+  Class Standing (Fall 2015): Senior
+
+Student: Kevin Schmittle
+  Email: kschmitt@nmt.edu
+  Major: Computer Science
+  Minor: Math
+  Class Standing (Fall 2015): Junior
+
+Student: Jacob Santillanes
+  Email: jsantill@nmt.edu
+  Major: CS
+  Minor: 
+  Class Standing (Fall 2015): Jr.
+
+Student: Stephanie Gott
+  Email: sgott@nmt.edu
+  Major: Computer Science
+  Minor: Math
+  Class Standing (Fall 2015): 28
+
+Student: Andrew Baker
+  Email: abaker@nmt.edu
+  Major: CSE
+  Minor: 
+  Class Standing (Fall 2015): Senior
+
+Student: Hugo Rivera
+  Email: hrivera@nmt.edu
+  Major: CSE/MATH double major
+  Minor: 
+  Class Standing (Fall 2015): 90, 99 after this summer
+
+Student: Kyle Buchmiller
+  Email: kbuchmil@nmt.edu
+  Major: CS
+  Minor: -
+  Class Standing (Fall 2015): 67 hours; junior
+
+Student: Carlos Rubio
+  Email: crubio@nmt.edu
+  Major: CSE
+  Minor: 
+  Class Standing (Fall 2015): Sophomore
+
+Student: Marcus Armijo
+  Email: marmij00@nmt.edu
+  Major: CS
+  Minor: N/A
+  Class Standing (Fall 2015): Junior
+
+Student: Matthew Crepeau
+  Email: mcrepeau@nmt.edu
+  Major: CS
+  Minor: 
+  Class Standing (Fall 2015): Sophomore
+
+Student: Rajat  Singh
+  Email: rsingh@nmt.edu
+  Major: CS
+  Minor: Undecided
+  Class Standing (Fall 2015): Juinor
+
+Student: Thomas Ames
+  Email: tames@nmt.edu
+  Major: Computer Science
+  Minor: none
+  Class Standing (Fall 2015): senior
+
+Student: Franz Chavez
+  Email: fchave00@nmt.edu
+  Major: CS
+  Minor: CS
+  Class Standing (Fall 2015): Sophomore
+
+Student: John McAlpine
+  Email: jmcalpin@nmt.edu
+  Major: CSE
+  Minor: Math
+  Class Standing (Fall 2015): Probably a sophomore?
+
+Student: Jesse Maes
+  Email: jmaes@nmt.edu
+  Major: CS
+  Minor: 
+  Class Standing (Fall 2015): Junior
+
+Student: Jeru Sanders
+  Email: jsande00@nmt.edu
+  Major: CSE
+  Minor: 
+  Class Standing (Fall 2015): 83
+
+Student: Evan Harvey
+  Email: eharvey@nmt.edu
+  Major: Computer Science
+  Minor: Mathematics
+  Class Standing (Fall 2015): Senior
+
+Student: Jay Garcia
+  Email: jgarci01@nmt.edu
+  Major: CSE
+  Minor: 
+  Class Standing (Fall 2015): Junior
+
+Student: Giovanni Brusca
+  Email: gbrusca@nmt.edu
+  Major: Information Technology
+  Minor: Computer Science
+  Class Standing (Fall 2015): Sophomore
+
+Student: Daniel Royer
+  Email: droyer@nmt.edu
+  Major: Computer Science
+  Minor: Management
+  Class Standing (Fall 2015): 82
+
+Student: Stephanie Martinez
+  Email: smarti02@nmt.edu
+  Major: cs
+  Minor: 
+  Class Standing (Fall 2015): senior
+
+Student: Nils Carlson
+  Email: ncarlson@nmt.edu
+  Major: CSE and Mathematics
+  Minor: 
+  Class Standing (Fall 2015): Junior
+
+Student: Elias Flores
+  Email: eflores@nmt.edu
+  Major: Computer Science and Engineering
+  Minor: Nothing
+  Class Standing (Fall 2015): 27
+
+Student: Marci McBride
+  Email: chica_mcbride@yahoo.com
+  Major: Computer Science 
+  Minor: 
+  Class Standing (Fall 2015): 111 credits 
+
+Student: Kari Erickson
+  Email: kerickso@nmt.edu
+  Major: Computer Science
+  Minor: 
+  Class Standing (Fall 2015): Sophomore
+
+Student: Forest Thomas
+  Email: fthomas@nmt.edu
+  Major: Computer Science
+  Minor: 
+  Class Standing (Fall 2015): Senior
+
+Student: Wesley Harris
+  Email: mharri01@nmt.edu
+  Major: Computer Science
+  Minor: N/A
+  Class Standing (Fall 2015): 20 (although I have 8 credits worth of online classes I need to transfer over)
+
+Student: James ("Jimmy") Alexander
+  Email: jalexa00@nmt.edu
+  Major: Computer Science
+  Minor: Technical Communication
+  Class Standing (Fall 2015): Junior
+
