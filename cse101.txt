@@ -9,6 +9,22 @@ Student: Alex Hernandez
 
 Previous courses:
   CSE 101: Introduction to Computer Science and Information Technology, CSE 113: Introduction to Programming, CSE 122: Algorithms and Data Structures, CSE 213: Introduction to Object Orientated Programming, CSE 221: Computer System Organization, CSE 222: Systems Programming, CSE 241: Foundations of Computer Science, CSE 324: Principles of Programming Languages, CSE 325: Principles of Operating Systems, CSE 326: Software Engineering, CSE 342: Formal Languages and Automata, CSE 344: Design and Analysis of Algorithms, CSE 423: Compiler Writing
+
+Course Selection (preferred/yes/no)
+  CSE/IT 101: If Needed
+  CSE/IT 107: N/A
+  CSE/IT 122: If Needed
+  CSE/IT 213: If Needed
+  CSE/IT 221: Yes
+  CSE/IT 222: Yes
+
+Positions Interested in (preferred/yes/no)
+  Grader: If Needed
+  TA: Preferred
+  Tutor: Preferred
+
+------------------------------------------------------
+
 Student: Chris Aikman
   Email: caikman@nmt.edu
   Major: Computer Science
@@ -20,6 +36,22 @@ Student: Chris Aikman
 
 Previous courses:
   CSE 101: Introduction to Computer Science and Information Technology, CSE 113: Introduction to Programming, CSE 122: Algorithms and Data Structures, CSE 213: Introduction to Object Orientated Programming, CSE 221: Computer System Organization, CSE 222: Systems Programming, CSE 241: Foundations of Computer Science, CSE 324: Principles of Programming Languages, CSE 326: Software Engineering, CSE 342: Formal Languages and Automata, CSE 344: Design and Analysis of Algorithms, CSE 353: Introduction to Computer Networks
+
+Course Selection (preferred/yes/no)
+  CSE/IT 101: Preferred
+  CSE/IT 107: N/A
+  CSE/IT 122: If Needed
+  CSE/IT 213: No
+  CSE/IT 221: If Needed
+  CSE/IT 222: If Needed
+
+Positions Interested in (preferred/yes/no)
+  Grader: Preferred
+  TA: No
+  Tutor: No
+
+------------------------------------------------------
+
 Student: Joshua  Ashinhurst
   Email: jashinhu@nmt.edu
   Major: Computer Science
@@ -31,6 +63,22 @@ Student: Joshua  Ashinhurst
 
 Previous courses:
   CSE 101: Introduction to Computer Science and Information Technology, CSE 113: Introduction to Programming, CSE 122: Algorithms and Data Structures
+
+Course Selection (preferred/yes/no)
+  CSE/IT 101: Yes
+  CSE/IT 107: N/A
+  CSE/IT 122: Yes
+  CSE/IT 213: N/A
+  CSE/IT 221: N/A
+  CSE/IT 222: N/A
+
+Positions Interested in (preferred/yes/no)
+  Grader: Preferred
+  TA: Yes
+  Tutor: If Needed
+
+------------------------------------------------------
+
 Student: Steven Biedermann
   Email: sbiederm@nmt.edu
   Major: Computer Science
@@ -42,6 +90,22 @@ Student: Steven Biedermann
 
 Previous courses:
   CSE 101: Introduction to Computer Science and Information Technology, CSE 107: Introduction to Computer  Programming using Python, CSE 113: Introduction to Programming
+
+Course Selection (preferred/yes/no)
+  CSE/IT 101: Yes
+  CSE/IT 107: Yes
+  CSE/IT 122: N/A
+  CSE/IT 213: N/A
+  CSE/IT 221: N/A
+  CSE/IT 222: N/A
+
+Positions Interested in (preferred/yes/no)
+  Grader: Preferred
+  TA: Yes
+  Tutor: Yes
+
+------------------------------------------------------
+
 Student: Preston Ruff
   Email: pruff@nmt.edu
   Major: Computer Science
@@ -53,6 +117,22 @@ Student: Preston Ruff
 
 Previous courses:
   CSE 101: Introduction to Computer Science and Information Technology, CSE 107: Introduction to Computer  Programming using Python
+
+Course Selection (preferred/yes/no)
+  CSE/IT 101: Yes
+  CSE/IT 107: Preferred
+  CSE/IT 122: N/A
+  CSE/IT 213: N/A
+  CSE/IT 221: N/A
+  CSE/IT 222: N/A
+
+Positions Interested in (preferred/yes/no)
+  Grader: Yes
+  TA: Yes
+  Tutor: If Needed
+
+------------------------------------------------------
+
 Student: Kevin Schmittle
   Email: kschmitt@nmt.edu
   Major: Computer Science
@@ -64,6 +144,22 @@ Student: Kevin Schmittle
 
 Previous courses:
   CSE 101: Introduction to Computer Science and Information Technology, CSE 113: Introduction to Programming, CSE 122: Algorithms and Data Structures, CSE 213: Introduction to Object Orientated Programming, CSE 221: Computer System Organization, CSE 222: Systems Programming, CSE 241: Foundations of Computer Science, CSE 324: Principles of Programming Languages
+
+Course Selection (preferred/yes/no)
+  CSE/IT 101: If Needed
+  CSE/IT 107: If Needed
+  CSE/IT 122: No
+  CSE/IT 213: Yes
+  CSE/IT 221: No
+  CSE/IT 222: Yes
+
+Positions Interested in (preferred/yes/no)
+  Grader: If Needed
+  TA: Yes
+  Tutor: Yes
+
+------------------------------------------------------
+
 Student: Jacob Santillanes
   Email: jsantill@nmt.edu
   Major: CS
@@ -75,6 +171,22 @@ Student: Jacob Santillanes
 
 Previous courses:
   CSE 101: Introduction to Computer Science and Information Technology, CSE 107: Introduction to Computer  Programming using Python, CSE 113: Introduction to Programming, CSE 122: Algorithms and Data Structures
+
+Course Selection (preferred/yes/no)
+  CSE/IT 101: If Needed
+  CSE/IT 107: If Needed
+  CSE/IT 122: Yes
+  CSE/IT 213: N/A
+  CSE/IT 221: N/A
+  CSE/IT 222: N/A
+
+Positions Interested in (preferred/yes/no)
+  Grader: Yes
+  TA: Yes
+  Tutor: Preferred
+
+------------------------------------------------------
+
 Student: Stephanie Gott
   Email: sgott@nmt.edu
   Major: Computer Science
@@ -86,6 +198,22 @@ Student: Stephanie Gott
 
 Previous courses:
   CSE 101: Introduction to Computer Science and Information Technology, CSE 107: Introduction to Computer  Programming using Python, CSE 113: Introduction to Programming
+
+Course Selection (preferred/yes/no)
+  CSE/IT 101: If Needed
+  CSE/IT 107: If Needed
+  CSE/IT 122: N/A
+  CSE/IT 213: N/A
+  CSE/IT 221: N/A
+  CSE/IT 222: N/A
+
+Positions Interested in (preferred/yes/no)
+  Grader: Preferred
+  TA: If Needed
+  Tutor: If Needed
+
+------------------------------------------------------
+
 Student: Andrew Baker
   Email: abaker@nmt.edu
   Major: CSE
@@ -97,6 +225,22 @@ Student: Andrew Baker
 
 Previous courses:
   CSE 101: Introduction to Computer Science and Information Technology, CSE 107: Introduction to Computer  Programming using Python, CSE 113: Introduction to Programming, CSE 122: Algorithms and Data Structures, CSE 213: Introduction to Object Orientated Programming, CSE 221: Computer System Organization, CSE 222: Systems Programming, CSE 241: Foundations of Computer Science, CSE 324: Principles of Programming Languages, CSE 325: Principles of Operating Systems, CSE 326: Software Engineering, CSE 331: Computer Architecture, CSE 342: Formal Languages and Automata, CSE 344: Design and Analysis of Algorithms, CSE 353: Introduction to Computer Networks, CSE 382: Logical, Ethical, and Social Issues of Information Technology
+
+Course Selection (preferred/yes/no)
+  CSE/IT 101: Yes
+  CSE/IT 107: Yes
+  CSE/IT 122: If Needed
+  CSE/IT 213: Yes
+  CSE/IT 221: Yes
+  CSE/IT 222: Preferred
+
+Positions Interested in (preferred/yes/no)
+  Grader: Preferred
+  TA: No
+  Tutor: If Needed
+
+------------------------------------------------------
+
 Student: Hugo Rivera
   Email: hrivera@nmt.edu
   Major: CSE/MATH double major
@@ -108,6 +252,22 @@ Student: Hugo Rivera
 
 Previous courses:
   CSE 101: Introduction to Computer Science and Information Technology, CSE 113: Introduction to Programming, CSE 122: Algorithms and Data Structures, CSE 213: Introduction to Object Orientated Programming, CSE 222: Systems Programming, CSE 241: Foundations of Computer Science, CSE 324: Principles of Programming Languages, CSE 326: Software Engineering
+
+Course Selection (preferred/yes/no)
+  CSE/IT 101: Yes
+  CSE/IT 107: Preferred
+  CSE/IT 122: Preferred
+  CSE/IT 213: Yes
+  CSE/IT 221: N/A
+  CSE/IT 222: If Needed
+
+Positions Interested in (preferred/yes/no)
+  Grader: Preferred
+  TA: Yes
+  Tutor: Yes
+
+------------------------------------------------------
+
 Student: Kyle Buchmiller
   Email: kbuchmil@nmt.edu
   Major: CS
@@ -119,6 +279,22 @@ Student: Kyle Buchmiller
 
 Previous courses:
   CSE 101: Introduction to Computer Science and Information Technology, CSE 113: Introduction to Programming, CSE 122: Algorithms and Data Structures, CSE 213: Introduction to Object Orientated Programming, CSE 221: Computer System Organization, CSE 222: Systems Programming, CSE 241: Foundations of Computer Science, CSE 324: Principles of Programming Languages
+
+Course Selection (preferred/yes/no)
+  CSE/IT 101: If Needed
+  CSE/IT 107: N/A
+  CSE/IT 122: Yes
+  CSE/IT 213: Yes
+  CSE/IT 221: Preferred
+  CSE/IT 222: If Needed
+
+Positions Interested in (preferred/yes/no)
+  Grader: If Needed
+  TA: Preferred
+  Tutor: Preferred
+
+------------------------------------------------------
+
 Student: Carlos Rubio
   Email: crubio@nmt.edu
   Major: CSE
@@ -130,6 +306,22 @@ Student: Carlos Rubio
 
 Previous courses:
   CSE 101: Introduction to Computer Science and Information Technology, CSE 107: Introduction to Computer  Programming using Python, CSE 113: Introduction to Programming
+
+Course Selection (preferred/yes/no)
+  CSE/IT 101: If Needed
+  CSE/IT 107: Preferred
+  CSE/IT 122: N/A
+  CSE/IT 213: N/A
+  CSE/IT 221: N/A
+  CSE/IT 222: N/A
+
+Positions Interested in (preferred/yes/no)
+  Grader: Preferred
+  TA: If Needed
+  Tutor: Yes
+
+------------------------------------------------------
+
 Student: Marcus Armijo
   Email: marmij00@nmt.edu
   Major: CS
@@ -141,6 +333,22 @@ Student: Marcus Armijo
 
 Previous courses:
   CSE 101: Introduction to Computer Science and Information Technology, CSE 113: Introduction to Programming, CSE 122: Algorithms and Data Structures, CSE 213: Introduction to Object Orientated Programming
+
+Course Selection (preferred/yes/no)
+  CSE/IT 101: If Needed
+  CSE/IT 107: If Needed
+  CSE/IT 122: Yes
+  CSE/IT 213: Preferred
+  CSE/IT 221: N/A
+  CSE/IT 222: N/A
+
+Positions Interested in (preferred/yes/no)
+  Grader: Preferred
+  TA: Yes
+  Tutor: Preferred
+
+------------------------------------------------------
+
 Student: Matthew Crepeau
   Email: mcrepeau@nmt.edu
   Major: CS
@@ -152,6 +360,22 @@ Student: Matthew Crepeau
 
 Previous courses:
   CSE 101: Introduction to Computer Science and Information Technology, CSE 113: Introduction to Programming, CSE 122: Algorithms and Data Structures
+
+Course Selection (preferred/yes/no)
+  CSE/IT 101: If Needed
+  CSE/IT 107: N/A
+  CSE/IT 122: Preferred
+  CSE/IT 213: N/A
+  CSE/IT 221: N/A
+  CSE/IT 222: N/A
+
+Positions Interested in (preferred/yes/no)
+  Grader: Yes
+  TA: Yes
+  Tutor: Yes
+
+------------------------------------------------------
+
 Student: Rajat  Singh
   Email: rsingh@nmt.edu
   Major: CS
@@ -163,6 +387,22 @@ Student: Rajat  Singh
 
 Previous courses:
   CSE 101: Introduction to Computer Science and Information Technology, CSE 113: Introduction to Programming, CSE 122: Algorithms and Data Structures, CSE 241: Foundations of Computer Science
+
+Course Selection (preferred/yes/no)
+  CSE/IT 101: If Needed
+  CSE/IT 107: If Needed
+  CSE/IT 122: Preferred
+  CSE/IT 213: N/A
+  CSE/IT 221: N/A
+  CSE/IT 222: N/A
+
+Positions Interested in (preferred/yes/no)
+  Grader: Preferred
+  TA: If Needed
+  Tutor: Preferred
+
+------------------------------------------------------
+
 Student: Thomas Ames
   Email: tames@nmt.edu
   Major: Computer Science
@@ -174,6 +414,22 @@ Student: Thomas Ames
 
 Previous courses:
   CSE 101: Introduction to Computer Science and Information Technology, CSE 113: Introduction to Programming, CSE 122: Algorithms and Data Structures
+
+Course Selection (preferred/yes/no)
+  CSE/IT 101: Yes
+  CSE/IT 107: N/A
+  CSE/IT 122: If Needed
+  CSE/IT 213: N/A
+  CSE/IT 221: N/A
+  CSE/IT 222: N/A
+
+Positions Interested in (preferred/yes/no)
+  Grader: Preferred
+  TA: If Needed
+  Tutor: Yes
+
+------------------------------------------------------
+
 Student: Franz Chavez
   Email: fchave00@nmt.edu
   Major: CS
@@ -185,6 +441,22 @@ Student: Franz Chavez
 
 Previous courses:
   CSE 101: Introduction to Computer Science and Information Technology, CSE 113: Introduction to Programming, CSE 122: Algorithms and Data Structures
+
+Course Selection (preferred/yes/no)
+  CSE/IT 101: If Needed
+  CSE/IT 107: Yes
+  CSE/IT 122: Yes
+  CSE/IT 213: No
+  CSE/IT 221: No
+  CSE/IT 222: No
+
+Positions Interested in (preferred/yes/no)
+  Grader: If Needed
+  TA: If Needed
+  Tutor: Preferred
+
+------------------------------------------------------
+
 Student: John McAlpine
   Email: jmcalpin@nmt.edu
   Major: CSE
@@ -196,6 +468,22 @@ Student: John McAlpine
 
 Previous courses:
   CSE 101: Introduction to Computer Science and Information Technology, CSE 113: Introduction to Programming, CSE 122: Algorithms and Data Structures
+
+Course Selection (preferred/yes/no)
+  CSE/IT 101: If Needed
+  CSE/IT 107: If Needed
+  CSE/IT 122: Yes
+  CSE/IT 213: N/A
+  CSE/IT 221: N/A
+  CSE/IT 222: N/A
+
+Positions Interested in (preferred/yes/no)
+  Grader: Preferred
+  TA: Preferred
+  Tutor: Preferred
+
+------------------------------------------------------
+
 Student: Jesse Maes
   Email: jmaes@nmt.edu
   Major: CS
@@ -207,6 +495,22 @@ Student: Jesse Maes
 
 Previous courses:
   CSE 101: Introduction to Computer Science and Information Technology, CSE 113: Introduction to Programming, CSE 122: Algorithms and Data Structures, CSE 213: Introduction to Object Orientated Programming, CSE 221: Computer System Organization, CSE 222: Systems Programming, CSE 241: Foundations of Computer Science, CSE 324: Principles of Programming Languages, CSE 326: Software Engineering
+
+Course Selection (preferred/yes/no)
+  CSE/IT 101: Yes
+  CSE/IT 107: If Needed
+  CSE/IT 122: Yes
+  CSE/IT 213: Yes
+  CSE/IT 221: If Needed
+  CSE/IT 222: No
+
+Positions Interested in (preferred/yes/no)
+  Grader: Yes
+  TA: If Needed
+  Tutor: Preferred
+
+------------------------------------------------------
+
 Student: Jeru Sanders
   Email: jsande00@nmt.edu
   Major: CSE
@@ -218,6 +522,22 @@ Student: Jeru Sanders
 
 Previous courses:
   CSE 101: Introduction to Computer Science and Information Technology, CSE 107: Introduction to Computer  Programming using Python, CSE 113: Introduction to Programming
+
+Course Selection (preferred/yes/no)
+  CSE/IT 101: Preferred
+  CSE/IT 107: Preferred
+  CSE/IT 122: If Needed
+  CSE/IT 213: If Needed
+  CSE/IT 221: If Needed
+  CSE/IT 222: If Needed
+
+Positions Interested in (preferred/yes/no)
+  Grader: Preferred
+  TA: If Needed
+  Tutor: Yes
+
+------------------------------------------------------
+
 Student: Evan Harvey
   Email: eharvey@nmt.edu
   Major: Computer Science
@@ -229,6 +549,22 @@ Student: Evan Harvey
 
 Previous courses:
   CSE 101: Introduction to Computer Science and Information Technology, CSE 113: Introduction to Programming, CSE 122: Algorithms and Data Structures, CSE 213: Introduction to Object Orientated Programming, CSE 221: Computer System Organization, CSE 222: Systems Programming, CSE 241: Foundations of Computer Science, CSE 324: Principles of Programming Languages
+
+Course Selection (preferred/yes/no)
+  CSE/IT 101: If Needed
+  CSE/IT 107: If Needed
+  CSE/IT 122: Preferred
+  CSE/IT 213: If Needed
+  CSE/IT 221: Preferred
+  CSE/IT 222: Yes
+
+Positions Interested in (preferred/yes/no)
+  Grader: Preferred
+  TA: Preferred
+  Tutor: Preferred
+
+------------------------------------------------------
+
 Student: Jay Garcia
   Email: jgarci01@nmt.edu
   Major: CSE
@@ -240,6 +576,22 @@ Student: Jay Garcia
 
 Previous courses:
   CSE 101: Introduction to Computer Science and Information Technology, CSE 113: Introduction to Programming, CSE 122: Algorithms and Data Structures, CSE 213: Introduction to Object Orientated Programming, CSE 222: Systems Programming
+
+Course Selection (preferred/yes/no)
+  CSE/IT 101: If Needed
+  CSE/IT 107: N/A
+  CSE/IT 122: Yes
+  CSE/IT 213: Yes
+  CSE/IT 221: N/A
+  CSE/IT 222: No
+
+Positions Interested in (preferred/yes/no)
+  Grader: Preferred
+  TA: If Needed
+  Tutor: Yes
+
+------------------------------------------------------
+
 Student: Giovanni Brusca
   Email: gbrusca@nmt.edu
   Major: Information Technology
@@ -251,6 +603,22 @@ Student: Giovanni Brusca
 
 Previous courses:
   CSE 101: Introduction to Computer Science and Information Technology, CSE 113: Introduction to Programming, CSE 122: Algorithms and Data Structures
+
+Course Selection (preferred/yes/no)
+  CSE/IT 101: If Needed
+  CSE/IT 107: N/A
+  CSE/IT 122: Yes
+  CSE/IT 213: N/A
+  CSE/IT 221: N/A
+  CSE/IT 222: N/A
+
+Positions Interested in (preferred/yes/no)
+  Grader: Preferred
+  TA: If Needed
+  Tutor: If Needed
+
+------------------------------------------------------
+
 Student: Daniel Royer
   Email: droyer@nmt.edu
   Major: Computer Science
@@ -262,6 +630,22 @@ Student: Daniel Royer
 
 Previous courses:
   CSE 101: Introduction to Computer Science and Information Technology, CSE 113: Introduction to Programming, CSE 122: Algorithms and Data Structures, CSE 213: Introduction to Object Orientated Programming, CSE 221: Computer System Organization, CSE 222: Systems Programming, CSE 241: Foundations of Computer Science, CSE 331: Computer Architecture, CSE 353: Introduction to Computer Networks
+
+Course Selection (preferred/yes/no)
+  CSE/IT 101: Preferred
+  CSE/IT 107: If Needed
+  CSE/IT 122: Yes
+  CSE/IT 213: Yes
+  CSE/IT 221: Yes
+  CSE/IT 222: Yes
+
+Positions Interested in (preferred/yes/no)
+  Grader: Preferred
+  TA: Yes
+  Tutor: Yes
+
+------------------------------------------------------
+
 Student: Stephanie Martinez
   Email: smarti02@nmt.edu
   Major: cs
@@ -273,6 +657,22 @@ Student: Stephanie Martinez
 
 Previous courses:
   CSE 101: Introduction to Computer Science and Information Technology, CSE 113: Introduction to Programming, CSE 122: Algorithms and Data Structures, CSE 213: Introduction to Object Orientated Programming, CSE 221: Computer System Organization, CSE 222: Systems Programming, CSE 324: Principles of Programming Languages, CSE 325: Principles of Operating Systems, CSE 326: Software Engineering, CSE 331: Computer Architecture, CSE 342: Formal Languages and Automata, CSE 344: Design and Analysis of Algorithms, CSE 382: Logical, Ethical, and Social Issues of Information Technology, CSE 423: Compiler Writing
+
+Course Selection (preferred/yes/no)
+  CSE/IT 101: If Needed
+  CSE/IT 107: If Needed
+  CSE/IT 122: No
+  CSE/IT 213: Yes
+  CSE/IT 221: No
+  CSE/IT 222: If Needed
+
+Positions Interested in (preferred/yes/no)
+  Grader: Yes
+  TA: Yes
+  Tutor: Preferred
+
+------------------------------------------------------
+
 Student: Nils Carlson
   Email: ncarlson@nmt.edu
   Major: CSE and Mathematics
@@ -284,6 +684,22 @@ Student: Nils Carlson
 
 Previous courses:
   CSE 101: Introduction to Computer Science and Information Technology, CSE 113: Introduction to Programming, CSE 122: Algorithms and Data Structures, CSE 241: Foundations of Computer Science
+
+Course Selection (preferred/yes/no)
+  CSE/IT 101: If Needed
+  CSE/IT 107: N/A
+  CSE/IT 122: Preferred
+  CSE/IT 213: N/A
+  CSE/IT 221: N/A
+  CSE/IT 222: N/A
+
+Positions Interested in (preferred/yes/no)
+  Grader: Yes
+  TA: If Needed
+  Tutor: Preferred
+
+------------------------------------------------------
+
 Student: Elias Flores
   Email: eflores@nmt.edu
   Major: Computer Science and Engineering
@@ -295,6 +711,22 @@ Student: Elias Flores
 
 Previous courses:
   CSE 101: Introduction to Computer Science and Information Technology, CSE 113: Introduction to Programming, CSE 122: Algorithms and Data Structures
+
+Course Selection (preferred/yes/no)
+  CSE/IT 101: If Needed
+  CSE/IT 107: N/A
+  CSE/IT 122: N/A
+  CSE/IT 213: N/A
+  CSE/IT 221: N/A
+  CSE/IT 222: N/A
+
+Positions Interested in (preferred/yes/no)
+  Grader: Preferred
+  TA: If Needed
+  Tutor: If Needed
+
+------------------------------------------------------
+
 Student: Marci McBride
   Email: chica_mcbride@yahoo.com
   Major: Computer Science 
@@ -306,6 +738,22 @@ Student: Marci McBride
 
 Previous courses:
   CSE 101: Introduction to Computer Science and Information Technology, CSE 107: Introduction to Computer  Programming using Python, CSE 113: Introduction to Programming, CSE 213: Introduction to Object Orientated Programming
+
+Course Selection (preferred/yes/no)
+  CSE/IT 101: If Needed
+  CSE/IT 107: Yes
+  CSE/IT 122: N/A
+  CSE/IT 213: No
+  CSE/IT 221: N/A
+  CSE/IT 222: N/A
+
+Positions Interested in (preferred/yes/no)
+  Grader: Yes
+  TA: No
+  Tutor: No
+
+------------------------------------------------------
+
 Student: Kari Erickson
   Email: kerickso@nmt.edu
   Major: Computer Science
@@ -317,6 +765,22 @@ Student: Kari Erickson
 
 Previous courses:
   CSE 101: Introduction to Computer Science and Information Technology, CSE 113: Introduction to Programming, CSE 122: Algorithms and Data Structures
+
+Course Selection (preferred/yes/no)
+  CSE/IT 101: Preferred
+  CSE/IT 107: No
+  CSE/IT 122: If Needed
+  CSE/IT 213: N/A
+  CSE/IT 221: N/A
+  CSE/IT 222: N/A
+
+Positions Interested in (preferred/yes/no)
+  Grader: Preferred
+  TA: If Needed
+  Tutor: Yes
+
+------------------------------------------------------
+
 Student: Forest Thomas
   Email: fthomas@nmt.edu
   Major: Computer Science
@@ -328,6 +792,22 @@ Student: Forest Thomas
 
 Previous courses:
   CSE 101: Introduction to Computer Science and Information Technology, CSE 113: Introduction to Programming, CSE 122: Algorithms and Data Structures, CSE 213: Introduction to Object Orientated Programming, CSE 222: Systems Programming, CSE 241: Foundations of Computer Science, CSE 324: Principles of Programming Languages
+
+Course Selection (preferred/yes/no)
+  CSE/IT 101: If Needed
+  CSE/IT 107: N/A
+  CSE/IT 122: Preferred
+  CSE/IT 213: Yes
+  CSE/IT 221: N/A
+  CSE/IT 222: If Needed
+
+Positions Interested in (preferred/yes/no)
+  Grader: Yes
+  TA: Preferred
+  Tutor: Yes
+
+------------------------------------------------------
+
 Student: Wesley Harris
   Email: mharri01@nmt.edu
   Major: Computer Science
@@ -339,6 +819,22 @@ Student: Wesley Harris
 
 Previous courses:
   CSE 101: Introduction to Computer Science and Information Technology, CSE 113: Introduction to Programming, CSE 122: Algorithms and Data Structures
+
+Course Selection (preferred/yes/no)
+  CSE/IT 101: Preferred
+  CSE/IT 107: No
+  CSE/IT 122: If Needed
+  CSE/IT 213: No
+  CSE/IT 221: No
+  CSE/IT 222: No
+
+Positions Interested in (preferred/yes/no)
+  Grader: Yes
+  TA: Preferred
+  Tutor: If Needed
+
+------------------------------------------------------
+
 Student: James ("Jimmy") Alexander
   Email: jalexa00@nmt.edu
   Major: Computer Science
@@ -350,3 +846,19 @@ Student: James ("Jimmy") Alexander
 
 Previous courses:
   CSE 101: Introduction to Computer Science and Information Technology, CSE 107: Introduction to Computer  Programming using Python, CSE 113: Introduction to Programming
+
+Course Selection (preferred/yes/no)
+  CSE/IT 101: If Needed
+  CSE/IT 107: Yes
+  CSE/IT 122: N/A
+  CSE/IT 213: N/A
+  CSE/IT 221: N/A
+  CSE/IT 222: N/A
+
+Positions Interested in (preferred/yes/no)
+  Grader: Preferred
+  TA: Yes
+  Tutor: If Needed
+
+------------------------------------------------------
+

@@ -51,6 +51,20 @@ class Student:
         pfile.write(''.join(('  Number of Hours Desired: ', self.hours,'\n')))
         pfile.write(''.join(('  Workstudy: ', self.wrkstdy,'\n\n')))
         pfile.write(''.join(('Previous courses:\n  ', self.prev,'\n\n')))
+        pfile.write('Course Selection (preferred/yes/no)\n')
+        pfile.write(''.join(('  CSE/IT 101: ', self.cse101,'\n')))
+        pfile.write(''.join(('  CSE/IT 107: ', self.cse107,'\n')))
+        pfile.write(''.join(('  CSE/IT 122: ', self.cse122,'\n')))
+        pfile.write(''.join(('  CSE/IT 213: ', self.cse213,'\n')))
+        pfile.write(''.join(('  CSE/IT 221: ', self.cse221,'\n')))
+        pfile.write(''.join(('  CSE/IT 222: ', self.cse222,'\n\n')))
+        pfile.write('Positions Interested in (preferred/yes/no)\n')
+        pfile.write(''.join(('  Grader: ', self.grader,'\n')))
+        pfile.write(''.join(('  TA: ', self.ta,'\n')))
+        pfile.write(''.join(('  Tutor: ', self.tutor,'\n\n')))
+        
+        pfile.write('------------------------------------------------------\n\n')
+        
         
 class ListStudent:
     def __init__(self, head=None):
