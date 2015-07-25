@@ -48,7 +48,9 @@ class Student:
         pfile.write(''.join(('  Major: ', self.major,'\n')))
         pfile.write(''.join(('  Minor: ', self.minor,'\n')))
         pfile.write(''.join(('  Class Standing (Fall 2015): ', self.standing,'\n\n')))
-        
+        pfile.write(''.join(('  Number of Hours Desired: ', self.hours,'\n')))
+        pfile.write(''.join(('  Workstudy: ', self.wrkstdy,'\n\n')))
+        pfile.write(''.join(('Previous courses:\n  ', self.prev,'\n\n')))
         
 class ListStudent:
     def __init__(self, head=None):
