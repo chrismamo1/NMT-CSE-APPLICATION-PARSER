@@ -23,6 +23,14 @@ Positions Interested in (preferred/yes/no)
   TA: Preferred
   Tutor: Preferred
 
+Course Grades 
+  CSE/IT 101: B
+  CSE/IT 107: N/A
+  CSE/IT 122: B
+  CSE/IT 213: B
+  CSE/IT 221: B
+  CSE/IT 222: C
+
 ------------------------------------------------------
 
 Student: Chris Aikman
@@ -49,6 +57,14 @@ Positions Interested in (preferred/yes/no)
   Grader: Preferred
   TA: No
   Tutor: No
+
+Course Grades 
+  CSE/IT 101: A
+  CSE/IT 107: N/A
+  CSE/IT 122: A
+  CSE/IT 213: Transfer
+  CSE/IT 221: A
+  CSE/IT 222: A
 
 ------------------------------------------------------
 
@@ -77,6 +93,14 @@ Positions Interested in (preferred/yes/no)
   TA: Yes
   Tutor: If Needed
 
+Course Grades 
+  CSE/IT 101: A
+  CSE/IT 107: N/A
+  CSE/IT 122: B
+  CSE/IT 213: N/A
+  CSE/IT 221: N/A
+  CSE/IT 222: N/A
+
 ------------------------------------------------------
 
 Student: Steven Biedermann
@@ -103,6 +127,14 @@ Positions Interested in (preferred/yes/no)
   Grader: Preferred
   TA: Yes
   Tutor: Yes
+
+Course Grades 
+  CSE/IT 101: A
+  CSE/IT 107: B
+  CSE/IT 122: In Progress
+  CSE/IT 213: N/A
+  CSE/IT 221: N/A
+  CSE/IT 222: N/A
 
 ------------------------------------------------------
 
@@ -131,6 +163,14 @@ Positions Interested in (preferred/yes/no)
   TA: Yes
   Tutor: If Needed
 
+Course Grades 
+  CSE/IT 101: A
+  CSE/IT 107: A
+  CSE/IT 122: N/A
+  CSE/IT 213: N/A
+  CSE/IT 221: N/A
+  CSE/IT 222: N/A
+
 ------------------------------------------------------
 
 Student: Kevin Schmittle
@@ -157,6 +197,14 @@ Positions Interested in (preferred/yes/no)
   Grader: If Needed
   TA: Yes
   Tutor: Yes
+
+Course Grades 
+  CSE/IT 101: A
+  CSE/IT 107: N/A
+  CSE/IT 122: A
+  CSE/IT 213: A
+  CSE/IT 221: A
+  CSE/IT 222: A
 
 ------------------------------------------------------
 
@@ -185,6 +233,14 @@ Positions Interested in (preferred/yes/no)
   TA: Yes
   Tutor: Preferred
 
+Course Grades 
+  CSE/IT 101: B
+  CSE/IT 107: B
+  CSE/IT 122: C
+  CSE/IT 213: N/A
+  CSE/IT 221: N/A
+  CSE/IT 222: N/A
+
 ------------------------------------------------------
 
 Student: Stephanie Gott
@@ -211,6 +267,14 @@ Positions Interested in (preferred/yes/no)
   Grader: Preferred
   TA: If Needed
   Tutor: If Needed
+
+Course Grades 
+  CSE/IT 101: C
+  CSE/IT 107: A
+  CSE/IT 122: N/A
+  CSE/IT 213: N/A
+  CSE/IT 221: N/A
+  CSE/IT 222: N/A
 
 ------------------------------------------------------
 
@@ -239,6 +303,14 @@ Positions Interested in (preferred/yes/no)
   TA: No
   Tutor: If Needed
 
+Course Grades 
+  CSE/IT 101: B
+  CSE/IT 107: N/A
+  CSE/IT 122: C
+  CSE/IT 213: B
+  CSE/IT 221: B
+  CSE/IT 222: B
+
 ------------------------------------------------------
 
 Student: Hugo Rivera
@@ -265,6 +337,14 @@ Positions Interested in (preferred/yes/no)
   Grader: Preferred
   TA: Yes
   Tutor: Yes
+
+Course Grades 
+  CSE/IT 101: A
+  CSE/IT 107: N/A
+  CSE/IT 122: A
+  CSE/IT 213: A
+  CSE/IT 221: N/A
+  CSE/IT 222: A
 
 ------------------------------------------------------
 
@@ -293,6 +373,14 @@ Positions Interested in (preferred/yes/no)
   TA: Preferred
   Tutor: Preferred
 
+Course Grades 
+  CSE/IT 101: A
+  CSE/IT 107: N/A
+  CSE/IT 122: B
+  CSE/IT 213: B
+  CSE/IT 221: A
+  CSE/IT 222: B
+
 ------------------------------------------------------
 
 Student: Carlos Rubio
@@ -319,6 +407,14 @@ Positions Interested in (preferred/yes/no)
   Grader: Preferred
   TA: If Needed
   Tutor: Yes
+
+Course Grades 
+  CSE/IT 101: B
+  CSE/IT 107: A
+  CSE/IT 122: N/A
+  CSE/IT 213: N/A
+  CSE/IT 221: N/A
+  CSE/IT 222: N/A
 
 ------------------------------------------------------
 
@@ -347,6 +443,14 @@ Positions Interested in (preferred/yes/no)
   TA: Yes
   Tutor: Preferred
 
+Course Grades 
+  CSE/IT 101: B
+  CSE/IT 107: N/A
+  CSE/IT 122: C
+  CSE/IT 213: B
+  CSE/IT 221: N/A
+  CSE/IT 222: N/A
+
 ------------------------------------------------------
 
 Student: Matthew Crepeau
@@ -373,6 +477,14 @@ Positions Interested in (preferred/yes/no)
   Grader: Yes
   TA: Yes
   Tutor: Yes
+
+Course Grades 
+  CSE/IT 101: A
+  CSE/IT 107: N/A
+  CSE/IT 122: A
+  CSE/IT 213: N/A
+  CSE/IT 221: N/A
+  CSE/IT 222: N/A
 
 ------------------------------------------------------
 
@@ -401,6 +513,14 @@ Positions Interested in (preferred/yes/no)
   TA: If Needed
   Tutor: Preferred
 
+Course Grades 
+  CSE/IT 101: A
+  CSE/IT 107: N/A
+  CSE/IT 122: B
+  CSE/IT 213: N/A
+  CSE/IT 221: N/A
+  CSE/IT 222: N/A
+
 ------------------------------------------------------
 
 Student: Thomas Ames
@@ -427,6 +547,14 @@ Positions Interested in (preferred/yes/no)
   Grader: Preferred
   TA: If Needed
   Tutor: Yes
+
+Course Grades 
+  CSE/IT 101: B
+  CSE/IT 107: N/A
+  CSE/IT 122: In Progress
+  CSE/IT 213: N/A
+  CSE/IT 221: N/A
+  CSE/IT 222: N/A
 
 ------------------------------------------------------
 
@@ -455,6 +583,14 @@ Positions Interested in (preferred/yes/no)
   TA: If Needed
   Tutor: Preferred
 
+Course Grades 
+  CSE/IT 101: A
+  CSE/IT 107: N/A
+  CSE/IT 122: B
+  CSE/IT 213: N/A
+  CSE/IT 221: N/A
+  CSE/IT 222: N/A
+
 ------------------------------------------------------
 
 Student: John McAlpine
@@ -481,6 +617,14 @@ Positions Interested in (preferred/yes/no)
   Grader: Preferred
   TA: Preferred
   Tutor: Preferred
+
+Course Grades 
+  CSE/IT 101: C
+  CSE/IT 107: N/A
+  CSE/IT 122: In Progress
+  CSE/IT 213: N/A
+  CSE/IT 221: N/A
+  CSE/IT 222: N/A
 
 ------------------------------------------------------
 
@@ -509,6 +653,14 @@ Positions Interested in (preferred/yes/no)
   TA: If Needed
   Tutor: Preferred
 
+Course Grades 
+  CSE/IT 101: B
+  CSE/IT 107: N/A
+  CSE/IT 122: B
+  CSE/IT 213: In Progress
+  CSE/IT 221: C
+  CSE/IT 222: In Progress
+
 ------------------------------------------------------
 
 Student: Jeru Sanders
@@ -535,6 +687,14 @@ Positions Interested in (preferred/yes/no)
   Grader: Preferred
   TA: If Needed
   Tutor: Yes
+
+Course Grades 
+  CSE/IT 101: C
+  CSE/IT 107: A
+  CSE/IT 122: N/A
+  CSE/IT 213: N/A
+  CSE/IT 221: N/A
+  CSE/IT 222: N/A
 
 ------------------------------------------------------
 
@@ -563,6 +723,14 @@ Positions Interested in (preferred/yes/no)
   TA: Preferred
   Tutor: Preferred
 
+Course Grades 
+  CSE/IT 101: A
+  CSE/IT 107: N/A
+  CSE/IT 122: A
+  CSE/IT 213: In Progress
+  CSE/IT 221: A
+  CSE/IT 222: In Progress
+
 ------------------------------------------------------
 
 Student: Jay Garcia
@@ -589,6 +757,14 @@ Positions Interested in (preferred/yes/no)
   Grader: Preferred
   TA: If Needed
   Tutor: Yes
+
+Course Grades 
+  CSE/IT 101: B
+  CSE/IT 107: N/A
+  CSE/IT 122: C
+  CSE/IT 213: In Progress
+  CSE/IT 221: N/A
+  CSE/IT 222: In Progress
 
 ------------------------------------------------------
 
@@ -617,6 +793,14 @@ Positions Interested in (preferred/yes/no)
   TA: If Needed
   Tutor: If Needed
 
+Course Grades 
+  CSE/IT 101: B
+  CSE/IT 107: N/A
+  CSE/IT 122: B
+  CSE/IT 213: N/A
+  CSE/IT 221: N/A
+  CSE/IT 222: N/A
+
 ------------------------------------------------------
 
 Student: Daniel Royer
@@ -643,6 +827,14 @@ Positions Interested in (preferred/yes/no)
   Grader: Preferred
   TA: Yes
   Tutor: Yes
+
+Course Grades 
+  CSE/IT 101: C
+  CSE/IT 107: N/A
+  CSE/IT 122: C
+  CSE/IT 213: B
+  CSE/IT 221: B
+  CSE/IT 222: C
 
 ------------------------------------------------------
 
@@ -671,6 +863,14 @@ Positions Interested in (preferred/yes/no)
   TA: Yes
   Tutor: Preferred
 
+Course Grades 
+  CSE/IT 101: C
+  CSE/IT 107: N/A
+  CSE/IT 122: A
+  CSE/IT 213: C
+  CSE/IT 221: C
+  CSE/IT 222: C
+
 ------------------------------------------------------
 
 Student: Nils Carlson
@@ -697,6 +897,14 @@ Positions Interested in (preferred/yes/no)
   Grader: Yes
   TA: If Needed
   Tutor: Preferred
+
+Course Grades 
+  CSE/IT 101: In Progress
+  CSE/IT 107: N/A
+  CSE/IT 122: In Progress
+  CSE/IT 213: N/A
+  CSE/IT 221: N/A
+  CSE/IT 222: N/A
 
 ------------------------------------------------------
 
@@ -725,6 +933,14 @@ Positions Interested in (preferred/yes/no)
   TA: If Needed
   Tutor: If Needed
 
+Course Grades 
+  CSE/IT 101: C
+  CSE/IT 107: N/A
+  CSE/IT 122: In Progress
+  CSE/IT 213: N/A
+  CSE/IT 221: N/A
+  CSE/IT 222: N/A
+
 ------------------------------------------------------
 
 Student: Marci McBride
@@ -751,6 +967,14 @@ Positions Interested in (preferred/yes/no)
   Grader: Yes
   TA: No
   Tutor: No
+
+Course Grades 
+  CSE/IT 101: In Progress
+  CSE/IT 107: In Progress
+  CSE/IT 122: N/A
+  CSE/IT 213: Transfer
+  CSE/IT 221: N/A
+  CSE/IT 222: N/A
 
 ------------------------------------------------------
 
@@ -779,6 +1003,14 @@ Positions Interested in (preferred/yes/no)
   TA: If Needed
   Tutor: Yes
 
+Course Grades 
+  CSE/IT 101: A
+  CSE/IT 107: N/A
+  CSE/IT 122: In Progress
+  CSE/IT 213: N/A
+  CSE/IT 221: N/A
+  CSE/IT 222: N/A
+
 ------------------------------------------------------
 
 Student: Forest Thomas
@@ -805,6 +1037,14 @@ Positions Interested in (preferred/yes/no)
   Grader: Yes
   TA: Preferred
   Tutor: Yes
+
+Course Grades 
+  CSE/IT 101: In Progress
+  CSE/IT 107: N/A
+  CSE/IT 122: A
+  CSE/IT 213: In Progress
+  CSE/IT 221: N/A
+  CSE/IT 222: In Progress
 
 ------------------------------------------------------
 
@@ -833,6 +1073,14 @@ Positions Interested in (preferred/yes/no)
   TA: Preferred
   Tutor: If Needed
 
+Course Grades 
+  CSE/IT 101: In Progress
+  CSE/IT 107: N/A
+  CSE/IT 122: In Progress
+  CSE/IT 213: N/A
+  CSE/IT 221: N/A
+  CSE/IT 222: N/A
+
 ------------------------------------------------------
 
 Student: James ("Jimmy") Alexander
@@ -859,6 +1107,14 @@ Positions Interested in (preferred/yes/no)
   Grader: Preferred
   TA: Yes
   Tutor: If Needed
+
+Course Grades 
+  CSE/IT 101: C
+  CSE/IT 107: B
+  CSE/IT 122: In Progress
+  CSE/IT 213: N/A
+  CSE/IT 221: N/A
+  CSE/IT 222: N/A
 
 ------------------------------------------------------
 

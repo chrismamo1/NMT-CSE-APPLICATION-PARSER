@@ -62,6 +62,13 @@ class Student:
         pfile.write(''.join(('  Grader: ', self.grader,'\n')))
         pfile.write(''.join(('  TA: ', self.ta,'\n')))
         pfile.write(''.join(('  Tutor: ', self.tutor,'\n\n')))
+        pfile.write('Course Grades \n')
+        pfile.write(''.join(('  CSE/IT 101: ', self.grd101,'\n')))
+        pfile.write(''.join(('  CSE/IT 107: ', self.grd107,'\n')))
+        pfile.write(''.join(('  CSE/IT 122: ', self.grd122,'\n')))
+        pfile.write(''.join(('  CSE/IT 213: ', self.grd213,'\n')))
+        pfile.write(''.join(('  CSE/IT 221: ', self.grd221,'\n')))
+        pfile.write(''.join(('  CSE/IT 222: ', self.grd222,'\n\n')))
         
         pfile.write('------------------------------------------------------\n\n')
         
