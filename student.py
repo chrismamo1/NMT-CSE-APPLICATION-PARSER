@@ -54,6 +54,7 @@ class Student:
         pfile.write('Course Selection (preferred/yes/no)\n')
         pfile.write(''.join(('  CSE/IT 101: ', self.cse101,'\n')))
         pfile.write(''.join(('  CSE/IT 107: ', self.cse107,'\n')))
+        pfile.write(''.join(('  CSE/IT 113: ', self.cse113,'\n')))
         pfile.write(''.join(('  CSE/IT 122: ', self.cse122,'\n')))
         pfile.write(''.join(('  CSE/IT 213: ', self.cse213,'\n')))
         pfile.write(''.join(('  CSE/IT 221: ', self.cse221,'\n')))
@@ -65,11 +66,21 @@ class Student:
         pfile.write('Course Grades \n')
         pfile.write(''.join(('  CSE/IT 101: ', self.grd101,'\n')))
         pfile.write(''.join(('  CSE/IT 107: ', self.grd107,'\n')))
+        pfile.write(''.join(('  CSE/IT 113: ', self.grd113,'\n')))
         pfile.write(''.join(('  CSE/IT 122: ', self.grd122,'\n')))
         pfile.write(''.join(('  CSE/IT 213: ', self.grd213,'\n')))
         pfile.write(''.join(('  CSE/IT 221: ', self.grd221,'\n')))
         pfile.write(''.join(('  CSE/IT 222: ', self.grd222,'\n\n')))
-        
+        pfile.write('Language/Concept Proficiency:\n')
+        pfile.write(''.join(('  C: ', self.c,'\n')))
+        pfile.write(''.join(('  Java: ', self.java,'\n')))
+        pfile.write(''.join(('  Data Structures/Algorithms: ', self.data,'\n')))
+        pfile.write(''.join(('  Pointers: ', self.pointers,'\n')))
+        pfile.write(''.join(('  Linked Lists: ', self.lnkdlsts,'\n')))
+        pfile.write(''.join(('  GDB/Valgrind: ', self.gdb,'\n\n')))
+        pfile.write(''.join(('Times Available:\n  ', self.times,'\n\n')))
+        pfile.write(''.join(('Previously worked for the department (followed by the reason): ', self.prevwrk, '; ', self.reason, '\n')))
+
         pfile.write('------------------------------------------------------\n\n')
         
         
