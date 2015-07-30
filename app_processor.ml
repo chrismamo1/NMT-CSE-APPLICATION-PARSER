@@ -200,7 +200,8 @@ module List = struct
       then begin
         let rec peel_from_front ls n =
           match ls with
-          | [] | _ when n = 0 -> []
+          | [] -> []
+          | _ when n = 0 -> []
           | hd :: tl -> hd :: peel_from_front tl (n - 1)
         in peel_from_front ls len
       end
