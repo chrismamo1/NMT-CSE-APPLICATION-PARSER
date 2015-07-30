@@ -18,3 +18,5 @@ lurgied up, and you need to make a few changes to it. I would have uploaded the 
 3. run `ocamlfind ocamlopt -syntax camlp4o -package cow,cow.syntax,csv -linkpkg app_processor.ml -o app_processor` for an optimized native-code
    executable, or use the makefile for an OCaml byte code executable
 4. run `app_processor --help` for usage instructions
+
+NOTE: the output directory must exist before you run the program
