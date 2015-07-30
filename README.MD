@@ -11,10 +11,12 @@ lurgied up, and you need to make a few changes to it. I would have uploaded the 
     *Clone these files to a directory
     *Have the spreadsheat from google forms (as a CSV)
 2. In order to successfully compile and run this, perform the following commands:
-    sudo apt-get install ocaml opam
-    opam update
-    opam install cow csv
-    eval `opam config env`
+```
+sudo apt-get install ocaml opam
+opam update
+opam install cow csv
+eval `opam config env`
+```
 3. run `ocamlfind ocamlopt -syntax camlp4o -package cow,cow.syntax,csv -linkpkg app_processor.ml -o app_processor` for an optimized native-code
    executable, or use the makefile for an OCaml byte code executable
 4. run `app_processor --help` for usage instructions
