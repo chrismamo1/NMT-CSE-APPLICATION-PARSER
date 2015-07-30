@@ -26,6 +26,11 @@ let jobs = ["Grader"; "TA"; "Tutor"];;
 let concepts = [ "Python Programming"; "C Programming"; "Java Programming";
                    "Data Structures/Algorithms"; "Pointers"; "Linked Lists";
                    "gdb/valgrind"];;
+let preference_levels = [ "preferred"; "yes"; "if needed"; "no"; "n/a"];;
+
+let sort_by_preference efunc appls =
+  (List.map (fun pref -> List.filter (fun appl -> String.lowercase @@ efunc appl = pref) appls) preference_levels)
+  |> List.flatten;;
 
 let applicant_of_row r =
   (* timestamp = CalendarLib.Printer.Calendar.from_fstring "%m/%d/%Y %H:%M:%S" (List.assoc "Timestamp" r)*)
@@ -67,7 +72,7 @@ let html_of_applicant ?(needtable=false) appl =
     <:html<
       <li>$str:c$</li>
     >> ) appl.cs_classes in
-  let c_sels = List.map (fun c -> <:html< <li>$str:c$ - $str:List.assoc c appl.course_sels$</li> >> ) courses  in
+  let c_sels = List.map (fun c -> <:html< <tr><td>$str:c$</td><td>$str:List.assoc c appl.course_sels$</td></tr> >> ) courses  in
   let j_sels = List.map (fun j -> <:html< <tr> <td>$str:j$</td> <td>$str:List.assoc j appl.job_sels$</td> </tr> >> ) jobs  in
   let grades = List.map (fun c -> <:html< <tr> <td>$str:c$</td> <td>$str:List.assoc c appl.cs_grades$</td> </tr> >> ) courses in
   let skills = List.map (fun c -> <:html< <tr> <td>$str:c$</td> <td>$str:List.assoc c appl.langs_skills$</td> </tr> >> ) concepts in
@@ -149,7 +154,7 @@ let html_of_applicant ?(needtable=false) appl =
     </table>
   >> in rval;;
 
-let html_of_application appls =
+let html_of_application ?(sort=None) appls =
   let names = List.map (fun appl ->
                   (List.assoc "Last Name" appl),(List.assoc "First Name" appl))
                   appls in
@@ -158,7 +163,13 @@ let html_of_application appls =
                           let dname = (fst n) ^ ", " ^ (snd n) in
                           let rv = Cow.Html.of_string ("<li><a href=\"#" ^ lname ^ "\">" ^ dname ^ "</a></li>") in rv)
                   names in
-  let applicants = List.map (fun appl -> html_of_applicant @@ applicant_of_row appl) appls in
+  let applicants = List.map (fun appl -> applicant_of_row appl) appls in
+  let applicants =
+    match sort with
+    | None -> applicants
+    | Some efunc -> sort_by_preference efunc applicants
+  in
+  let applicants = List.map (fun appl -> html_of_applicant appl) applicants in
   let jlinks = List.map (fun j -> Cow.Html.of_string ("<li><a href=\"" ^ j ^ ".html\">" ^ j ^ "</a></li>")) jobs in
   let clinks = List.map
     (fun c ->
@@ -238,8 +249,8 @@ let () =
         (fun j ->
           List.filter (fun appl ->
             let appl' = applicant_of_row appl in
-            match List.assoc j appl'.job_sels with
-            | "Yes" | "Preferred" | "If Needed" -> true
+            match String.lowercase @@ List.assoc j appl'.job_sels with
+            | "yes" | "preferred" | "if needed" -> true
             | _ -> false
           ) data
         ) jobs
@@ -248,7 +259,8 @@ let () =
     List.iter (fun j ->
         let f = open_out (!out_path ^ "/" ^ j ^ ".html") in
         let appl = List.assoc j jobsels_pages in
-        output_string f (Cow.Html.to_string @@ html_of_application appl);
+        let sort = Some (fun appl -> List.assoc j appl.job_sels) in
+        output_string f (Cow.Html.to_string @@ html_of_application ~sort appl);
         close_out f;
       ) jobs;
     let coursesels_pages =
@@ -256,8 +268,8 @@ let () =
         (fun c ->
           List.filter (fun appl ->
             let appl' = applicant_of_row appl in
-            match List.assoc c appl'.course_sels with
-            | "Yes" | "Preferred" | "If Needed" -> true
+            match String.lowercase @@ List.assoc c appl'.course_sels with
+            | "yes" | "preferred" | "if needed" -> true
             | _ -> false
           ) data
         ) courses
@@ -267,7 +279,8 @@ let () =
         let c' = List.assoc c courses' in
         let f = open_out (!out_path ^ "/" ^ c' ^ ".html") in
         let appl = List.assoc c coursesels_pages in
-        output_string f (Cow.Html.to_string @@ html_of_application appl);
+        let sort = Some (fun appl -> List.assoc c appl.course_sels) in
+        output_string f (Cow.Html.to_string @@ html_of_application ~sort appl);
         close_out f;
       ) courses;
     output_string index @@ Cow.Html.to_string @@ html_of_application data;
