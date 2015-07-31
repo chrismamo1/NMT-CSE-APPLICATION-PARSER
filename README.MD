@@ -17,7 +17,9 @@ opam update
 opam install cow csv
 eval `opam config env`
 ```
-3. run `ocamlfind ocamlopt -syntax camlp4o -package cow,cow.syntax,csv -linkpkg app_processor.ml -o app_processor` for an optimized native-code
+You might also need to install Netstring/Netencode (for URL encoding), but I'm
+reasonably confident that this comes with the OCaml distribution.
+3. run `ocamlfind ocamlopt -syntax camlp4o -package cow,cow.syntax,csv,netstring -linkpkg app_processor.ml -o app_processor` for an optimized native-code
    executable, or use the makefile for an OCaml byte code executable
 4. run `app_processor --help` for usage instructions
 
