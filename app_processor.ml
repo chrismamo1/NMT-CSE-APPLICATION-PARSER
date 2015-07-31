@@ -73,7 +73,7 @@ let html_of_applicant ?(needtable=false) appl =
   let j_sels = List.map (fun j -> <:html< <tr> <td>$str:j$</td> <td>$str:List.assoc j appl.job_sels$</td> </tr> >> ) jobs  in
   let grades = List.map (fun c -> <:html< <tr> <td>$str:c$</td> <td>$str:List.assoc c appl.cs_grades$</td> </tr> >> ) courses in
   let skills = List.map (fun c -> <:html< <tr> <td>$str:c$</td> <td>$str:List.assoc c appl.langs_skills$</td> </tr> >> ) concepts in
-  let aname = (appl.lname) ^ "," ^ (appl.fname) in
+  let aname = Netencoding.Url.encode (appl.lname ^ "," ^ appl.fname) in
   let rval : Cow.Html.t = <:html<
     <a name="$str:aname$" />
     <h1><a href="#top"> ^ Back to top </a></h1>
@@ -156,7 +156,7 @@ let html_of_application ?(sort=None) appls =
                   (List.assoc "Last Name" appl),(List.assoc "First Name" appl))
                   appls in
   let links = List.map (fun n ->
-                          let lname = (fst n) ^ "," ^ (snd n) in
+                          let lname = Netencoding.Url.encode ((fst n) ^ "," ^ (snd n)) in
                           let dname = (fst n) ^ ", " ^ (snd n) in
                           let rv = Cow.Html.of_string ("<li><a href=\"#" ^ lname ^ "\">" ^ dname ^ "</a></li>") in rv)
                   names in
