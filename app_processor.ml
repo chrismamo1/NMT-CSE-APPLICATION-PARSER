@@ -19,9 +19,6 @@ type applicant = { timestamp: string;
 
 let courses = [ "CSE/IT 101"; "CSE/IT 107"; "CSE/IT 113"; "CSE/IT 122";
                   "CSE 213"; "CSE 221"; "CSE 222" ];;
-let courses' = List.combine courses 
-                [ "CSE_IT_101"; "CSE_IT_107"; "CSE_IT_113"; "CSE_IT_122";
-                  "CSE_213"; "CSE_221"; "CSE_222" ];;
 let jobs = ["Grader"; "TA"; "Tutor"];;
 let concepts = [ "Python Programming"; "C Programming"; "Java Programming";
                    "Data Structures/Algorithms"; "Pointers"; "Linked Lists";
@@ -173,7 +170,7 @@ let html_of_application ?(sort=None) appls =
   let jlinks = List.map (fun j -> Cow.Html.of_string ("<li><a href=\"" ^ j ^ ".html\">" ^ j ^ "</a></li>")) jobs in
   let clinks = List.map
     (fun c ->
-      let c' = List.assoc c courses' in
+      let c' = Netencoding.Url.encode c in
       Cow.Html.of_string ("<li><a href=\"" ^ c' ^ ".html\">" ^ c ^ "</a></li>")) courses in
   let rval = <:html<
     <style>
@@ -276,7 +273,7 @@ let () =
       |> List.combine courses
     in
     List.iter (fun c ->
-        let c' = List.assoc c courses' in
+        let c' = Netencoding.Url.encode c in
         let f = open_out (!out_path ^ "/" ^ c' ^ ".html") in
         let appl = List.assoc c coursesels_pages in
         let sort = Some (fun appl -> List.assoc c appl.course_sels) in
